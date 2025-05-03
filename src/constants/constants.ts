@@ -32,11 +32,19 @@ export const EDUCATION : IEducation[] = [
 
 export const EXPERIENCE : IExperience [] = [
     {
-        company: 'Aeria',
-        startDate: 'July 2024',
+        company: 'Green Clover IT systems Pvt Ltd',
+        startDate: 'Jan 2025',
         endDate: 'Current',
         experienceType: 'Internship',
-        description: `I'm Currently Working as a Full stack Developer at Aeria. My Day to day tasks involves Writing Api's on the backend and making sure they work well and Integerating them on the Frontend.`,
+        description: `I'm Currently Working as a Full stack Developer at Green clover IT systems. My responsibilities include fixing bugs and managing deployments and improving the UI`,
+        profile: 'Full Stack Developer',
+    },
+    {
+        company: 'Aeria',
+        startDate: 'July 2024',
+        endDate: 'Jan 2025',
+        experienceType: 'Internship',
+        description: `I'm Worked  as a Backend Developer at Aeria. My Day to day tasks involves Writing Api's on the backend and making sure they work well and integrated them on the Frontend.`,
         profile: 'Full Stack Developer',
     },
     {
